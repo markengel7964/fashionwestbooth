@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyAKO-ma5UgELjCIlsNJnF_YwicfV2es3kw",
-  authDomain: "satoyabp.firebaseapp.com",
-  databaseURL: "https://satoyabp-default-rtdb.firebaseio.com",
-  projectId: "satoyabp",
-  storageBucket: "satoyabp.firebasestorage.app",
-  messagingSenderId: "1092254379214",
-  appId: "1:1092254379214:web:2b9e500e5231e19c9f749f"
+apiKey: "AIzaSyCaiLsY39IYwWVA1Suvl_O0nhpBdS3tDvA",
+authDomain: "fashiondroids.firebaseapp.com",
+databaseURL: "https://fashiondroids-default-rtdb.firebaseio.com",
+projectId: "fashiondroids",
+storageBucket: "fashiondroids.appspot.com",
+messagingSenderId: "899420649418",
+appId: "1:899420649418:web:65afa32765f959ece14133"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
